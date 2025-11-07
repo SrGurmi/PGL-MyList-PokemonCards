@@ -32,5 +32,5 @@ export const CATEGORIES: Record<string, string> = {
 
 ```
 ### 📸 Boceto creado previamente usando ExcaliDraw
-![Dibujo de Excalidraw](docs/imgs/prueba-excalidraw.png)
+![Dibujo de Excalidraw](/imgs/prueba-excalidraw.png)
 
