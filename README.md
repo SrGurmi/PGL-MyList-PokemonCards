@@ -58,6 +58,12 @@ App.tsx                    # Punto de entrada de la aplicación
 
 ---
 
+## Imagen ExcaliDraw
+
+![Dibujo de Excalidraw](docs/imgs/prueba-excalidraw.png)
+
+--- 
+
 ## 🧑‍💻 Instalación y ejecución
 
 ```bash
